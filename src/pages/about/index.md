@@ -1,19 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Interstellaris
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Dear reader,
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+I know you won't believe me, but I will tell my story anyway.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+These messages are from the future. Yeah, that's what I said, you won't beleive me. But please, just shut off your critical thinking for a minute &mdash; how hard can that be? I mean, your time allowed Trump to become POTUS and the British people voted to leave the EU after all. Anyway, just say for the sake of it, that in the future we figure out that time is a lot more fluid than we thought. We haven't figured out how to send people back yet &mdash; at least not in my timeline &mdash; but we have figured out how to send information through time and space. The only problem is to find a receiver. Fortunately for me, I have found one and that is how you are able to read these messages through time and space.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+The stories I tell you are real, they've all happened to me, Captain Rome of the Interstellaris. I can't promise that you receive the messages in chronological order, the receiver is not tuned to listen to messages from the future so I have to improvise. As a result I will try to keep my stories brief enough to fit in a single message, otherwise you might end up with the ending before the beginning. But don't get too confused if I mention something from the past in a message that you haven't yet read, it may still be in the future, unless you've just missed the message that is. Maybe you should go and check.
+
+&nbsp
+
+_Mark Rome\
+Captain of the Interstellaris\
+March 2, 2349_
